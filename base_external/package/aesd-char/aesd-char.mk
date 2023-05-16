@@ -1,4 +1,4 @@
-AESD_CHAR_VERSION = 'e25f697413e37f3c12c5bc675eff0af1356870ea'
+AESD_CHAR_VERSION = '1b68761508c22ee5ff31c741ddece740974687b1'
 AESD_CHAR_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-Wiguwbe'
 AESD_CHAR_SITE_METHOD = git
 AESD_CHAR_GIT_SUBMODULES = YES
